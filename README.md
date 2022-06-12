@@ -53,5 +53,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   
-  
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xN1nja&layout=compact&card_width=250&hide_border=true&theme=dracula"/>
