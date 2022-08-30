@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fandngo</h1>
+<h1 align="center">Hi 👋, I'm Raifan</h1>
 <h3 align="center">Python Developer From Indonesia</h3>
 
 - 🔭 I’m currently working on **Python**
@@ -7,13 +7,12 @@
 
 - 👯 I’m looking to collaborate on **Deep Learning Projects**
 
-- 👨 I'm **20**
+- 👨 I'm **21**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/Fandngo](https://linktr.ee/Fandngo)
 
 - 💬 Ask me about **Python, JavaScript, Solana,Polygon & Ethereum NFT**
 
-- ⚡ Fun fact **People Think I'm Funny :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
