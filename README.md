@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raifan</h1>
-<h3 align="center">Python Developer From Indonesia</h3>
+<h3 align="center">Python Developer</h3>
 
 - 🔭 I’m currently working on **Python**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/Fandngo](https://linktr.ee/Fandngo)
 
-- 💬 Ask me about **Python, JavaScript, Solana,Polygon & Ethereum NFT**
+- 💬 Ask me about **Python, JavaScript, Ethereum & Solana NFT**
 
 
 <h3 align="left">Connect with me:</h3>
