@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/Fandngo](https://linktr.ee/Fandngo)
 
-- 💬 Ask me about **Python, JavaScript, Ethereum & Solana NFT**
+- 💬 Ask me about **Python, JavaScript**
 
 
 <h3 align="left">Connect with me:</h3>
