@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raifan</h1>
-<h3 align="center">Python Developer</h3>
+<h3 align="center">Front-End Developer</h3>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **My Projects**
 
-- 🌱 I’m currently learning **Python & JavaScript**
+- 🌱 I’m currently learning **Javascript & TypeScript**
 
 - 👯 I’m looking to collaborate on **Deep Learning Projects**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/Fandngo](https://linktr.ee/Fandngo)
 
-- 💬 Ask me about **Python, JavaScript**
+- 💬 Ask me about **Python, JavaScript or anything about Frontend**
 
 
 <h3 align="left">Connect with me:</h3>
