@@ -1,54 +1,73 @@
-<h1 align="center">Hi 👋, I'm Raifan</h1>
-<h3 align="center">Front-End Developer</h3>
+### Hi there 👋, I'm Muhammad Raifan
 
-- 🔭 I’m currently working on **My Projects**
-
-- 🌱 I’m currently learning **Javascript & TypeScript**
-
-- 👯 I’m looking to collaborate on **Deep Learning Projects**
-
-- 👨 I'm **21**
-
-- 👨‍💻 All of my projects are available at [https://linktr.ee/Fandngo](https://linktr.ee/Fandngo)
-
-- 💬 Ask me about **Python, JavaScript or anything about Frontend**
-
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Fandngox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhiman78795935" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19322911/fandngo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14895107/abhimanyu-sharma" height="30" width="40" /></a>
-<a href="https://instagram.com/fandngo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="n1nja404butfound/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/fandngo" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="https://twitter.com/@0xboras" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
+  </a>
+  <a href="mailto:raifanmohammed@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+  </a>
+  <a href="https://[link-portfolio-atau-website-anda]" target="_blank">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools I Use :</h3>
+### I'm a Solidity | Smart Contract developer
 
-### Analytics/Databases
-  
-  ![mongodb](https://img.shields.io/badge/mongodb-005C84?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-  ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-  ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+---
 
-### Machine Learning/AI
+- 🔭 I’m currently working on **Ethereum Smart Contracts**
+- 🌱 I’m currently learning **Web3 Ecosystem]**
+- 👯 I’m looking to collaborate on **Open Source Web3 projects**
+- 💬 Ask me about **Solidity, Smart Contracts, and Blockchain**
+- 📫 How to reach me: **DM on Twitter**
 
-  ![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![sklearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-  ![opencv](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-  ![pandas](https://img.shields.io/badge/pandas-27338e?style=for-the-badge&logo=pandas&logoColor=white)
-  
+---
 
-### Python Frameworks
+### 🛠️ My Skills
 
-  ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-  ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-  ![fastapi](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
-  ![selenium](https://img.shields.io/badge/selenium-109989?style=for-the-badge&logo=selenium&logoColor=white)
+#### Blockchains
+<p align="left">
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Base-0052FF?style=for-the-badge&logo=base&logoColor=white" />
+</p>
 
-### Programming Languages
+#### Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  
+#### Smart Contract Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/Hardhat-25292F?style=for-the-badge&logo=hardhat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Foundry-25292F?style=for-the-badge&logo=foundry&logoColor=white" />
+</p>
+
+#### Frontend Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+#### Off-Chain
+<p align="left">
+  <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" />
+</p>
+
+#### Others
+<p align="left">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+---
+
+### 📊 My Stats
+<figure><embed src="https://wakatime.com/share/@0d04f732-f155-44d4-948d-865c060a149d/23070e89-4c3a-4991-b0da-1eecc1dbdd67.svg"></embed></figure>
