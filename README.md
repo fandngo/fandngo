@@ -69,5 +69,5 @@
 
 ---
 
-### 📊 My Stats
-<figure><embed src="https://wakatime.com/share/@0d04f732-f155-44d4-948d-865c060a149d/23070e89-4c3a-4991-b0da-1eecc1dbdd67.svg"></embed></figure>
+### 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fandngo)](https://github.com/anuraghazra/github-readme-stats)
