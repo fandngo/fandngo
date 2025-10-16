@@ -1,4 +1,6 @@
-### Hi there 👋, I'm Muhammad Raifan
+<h1 align="center"><code>Hello, I'm Raifan!</code></h1>
+
+<img width="600" src="github-snake.svg" />
 
 <p align="left">
   <a href="https://www.linkedin.com/in/fandngo" target="_blank">
