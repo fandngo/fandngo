@@ -23,16 +23,6 @@
 
 ---
 
-- 🔭 I’m currently working on **Ethereum Smart Contracts**
-- 🌱 I’m currently learning **Web3 Ecosystem]**
-- 👯 I’m looking to collaborate on **Open Source Web3 projects**
-- 💬 Ask me about **Solidity, Smart Contracts, and Blockchain**
-- 📫 How to reach me: **DM on Twitter**
-
----
-
-### 🛠️ My Skills
-
 #### Blockchains
 <p align="left">
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
