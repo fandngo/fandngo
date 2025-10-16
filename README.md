@@ -62,3 +62,15 @@
 </p>
 
 ---
+<p align="center">
+  <p align="left">
+  ![fandngo's Stats](https://github-readme-stats.vercel.app/api?username=fandngo&theme=dark&show_icons=true&hide_border=false&count_private=true)
+  </p>
+  <p align="right">
+  ![fandngo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fandngo&theme=dark&hide_border=false)
+  </p>
+</p>
+
+
+
+
